@@ -24,4 +24,7 @@
   <ItemGroup>
     <SourceGeneratorInput Remove="IIAssignment.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <SourceGeneratorInput Remove="Gradebook.cs" />
+  </ItemGroup>
 </Project>
