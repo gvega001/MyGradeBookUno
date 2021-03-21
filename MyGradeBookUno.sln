@@ -13,17 +13,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGradeBookUno.iOS", "MyGra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGradeBookUno.UWP", "MyGradeBookUno.UWP\MyGradeBookUno.UWP.csproj", "{CF8D5E42-D44E-49EE-A78F-3EE9C304C052}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGradeBookUno.Wasm", "MyGradeBookUno.Wasm\MyGradeBookUno.Wasm.csproj", "{B1D315D8-01D3-4766-945A-127E3127B0B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyGradeBookUno.Wasm", "MyGradeBookUno.Wasm\MyGradeBookUno.Wasm.csproj", "{B1D315D8-01D3-4766-945A-127E3127B0B5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGradeBookUno.macOS", "MyGradeBookUno.macOS\MyGradeBookUno.macOS.csproj", "{F6C5560D-8F70-4A83-9E4C-D7314015AE9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGradeBookUno.Skia.Wpf.Host", "MyGradeBookUno.Skia.Wpf.Host\MyGradeBookUno.Skia.Wpf.Host.csproj", "{DC517798-6633-46D3-8452-7E87DC131B24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyGradeBookUno.Skia.Wpf.Host", "MyGradeBookUno.Skia.Wpf.Host\MyGradeBookUno.Skia.Wpf.Host.csproj", "{DC517798-6633-46D3-8452-7E87DC131B24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGradeBookUno.Skia.Wpf", "MyGradeBookUno.Skia.Wpf\MyGradeBookUno.Skia.Wpf.csproj", "{048AA5BF-B66F-4DD9-9EFB-13F563A68B00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyGradeBookUno.Skia.Wpf", "MyGradeBookUno.Skia.Wpf\MyGradeBookUno.Skia.Wpf.csproj", "{048AA5BF-B66F-4DD9-9EFB-13F563A68B00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGradeBookUno.Skia.Gtk", "MyGradeBookUno.Skia.Gtk\MyGradeBookUno.Skia.Gtk.csproj", "{E47D3BD2-5B09-41A6-9236-191C3410BE32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyGradeBookUno.Skia.Gtk", "MyGradeBookUno.Skia.Gtk\MyGradeBookUno.Skia.Gtk.csproj", "{E47D3BD2-5B09-41A6-9236-191C3410BE32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGradeBookUno.Skia.Tizen", "MyGradeBookUno.Skia.Tizen\MyGradeBookUno.Skia.Tizen.csproj", "{B4B75421-D28E-4684-A98C-55EA02A05F79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyGradeBookUno.Skia.Tizen", "MyGradeBookUno.Skia.Tizen\MyGradeBookUno.Skia.Tizen.csproj", "{B4B75421-D28E-4684-A98C-55EA02A05F79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentInformationSystemClassLibrary", "StudentInformationSystemClassLibrary\StudentInformationSystemClassLibrary.csproj", "{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
@@ -586,6 +588,62 @@ Global
 		{B4B75421-D28E-4684-A98C-55EA02A05F79}.Release|x64.Build.0 = Release|Any CPU
 		{B4B75421-D28E-4684-A98C-55EA02A05F79}.Release|x86.ActiveCfg = Release|Any CPU
 		{B4B75421-D28E-4684-A98C-55EA02A05F79}.Release|x86.Build.0 = Release|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Ad-Hoc|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Ad-Hoc|Any CPU.Build.0 = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Ad-Hoc|ARM.ActiveCfg = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Ad-Hoc|ARM.Build.0 = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Ad-Hoc|ARM64.ActiveCfg = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Ad-Hoc|ARM64.Build.0 = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Ad-Hoc|iPhone.ActiveCfg = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Ad-Hoc|iPhone.Build.0 = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Ad-Hoc|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Ad-Hoc|x64.ActiveCfg = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Ad-Hoc|x64.Build.0 = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Ad-Hoc|x86.ActiveCfg = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Ad-Hoc|x86.Build.0 = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.AppStore|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.AppStore|Any CPU.Build.0 = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.AppStore|ARM.ActiveCfg = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.AppStore|ARM.Build.0 = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.AppStore|ARM64.ActiveCfg = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.AppStore|ARM64.Build.0 = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.AppStore|iPhone.ActiveCfg = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.AppStore|iPhone.Build.0 = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.AppStore|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.AppStore|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.AppStore|x64.ActiveCfg = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.AppStore|x64.Build.0 = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.AppStore|x86.ActiveCfg = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.AppStore|x86.Build.0 = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Debug|ARM.Build.0 = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Debug|x64.Build.0 = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Debug|x86.Build.0 = Debug|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Release|ARM.ActiveCfg = Release|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Release|ARM.Build.0 = Release|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Release|ARM64.Build.0 = Release|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Release|iPhone.Build.0 = Release|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Release|x64.ActiveCfg = Release|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Release|x64.Build.0 = Release|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Release|x86.ActiveCfg = Release|Any CPU
+		{C7EBFC1D-4F41-4546-9FEA-91BD70EE4641}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
