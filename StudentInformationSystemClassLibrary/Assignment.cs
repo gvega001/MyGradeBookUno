@@ -5,7 +5,7 @@ using System.Text;
 
 namespace StudentInformationSystemClassLibrary
 {
-    public class Assignment
+    public class Assignment :IIAssignment
     {
         public int Id { get; set; }
 
