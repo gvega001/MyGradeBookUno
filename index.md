@@ -6,11 +6,9 @@ Designed and Developed by the community. This project is teacher and student lea
 
 This is a Student Information System. 
 
-```markdown
-contributors welcomed. 
+*_contributors welcomed_*
 
 # Student and Teacher Driven
-
 
 - Student
 - Teachers
@@ -18,7 +16,14 @@ contributors welcomed.
 1. User Stories
 2. Requirements
 
+## Teacher
+I have been teaching 12 years with 5 years of tutoring prior to that. 
+This will be a continuation of an idea I have had from the begining of my teaching career. Technically it is the second iteration of my masters project. 
+
+##My Masters
+*_https://youtu.be/w2mdZK7_nwk_*
 
 ### Support or Contact
+
 
 www.devfyou.online
