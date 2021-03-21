@@ -1,6 +1,6 @@
 ﻿namespace StudentInformationSystemClassLibrary
 {
-    public class Gradebook
+    public class GradeBook: IIGradeBook
     {
         public int Id { get; set; }
 
