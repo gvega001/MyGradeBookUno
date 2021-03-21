@@ -20,7 +20,7 @@ This is a Student Information System.
 I have been teaching 12 years with 5 years of tutoring prior to that. 
 This will be a continuation of an idea I have had from the begining of my teaching career. Technically it is the second iteration of my masters project. 
 
-##My Masters
+## My Masters
 *_https://youtu.be/w2mdZK7_nwk_*
 
 ### Support or Contact
