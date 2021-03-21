@@ -1,6 +1,6 @@
 ﻿namespace StudentInformationSystemClassLibrary
 {
-    public class Preferences
+    public class Preferences: IIPreferences
     {
         public int GradeBookId { get; set; }
         public bool CalculateGradesBeforeCurrentDate { get; set; }
